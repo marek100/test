@@ -1,3 +1,3 @@
 # Muj projekt 
 
-Tohle je muj novy pojekt
+Tohle je muj __novy__ pojekt
